@@ -66,6 +66,17 @@ let x = 12;
 let risultato = 4 - x;
 console.log(risultato);
 
+/* ESERCIZIO 6.1
+ Crea un oggetto di Javascript che ti rappresenti (come proprietà usa nome, cognome e hobby)
+ */
+
+ let mieiDati = {
+ nome: "Andrea",
+ cognome: "Zocco",
+ età: 31,
+ hobbies: "Videogames, musica, libri"
+ };
+
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
